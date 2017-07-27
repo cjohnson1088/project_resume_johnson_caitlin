@@ -1,0 +1,3 @@
+$('#responsiveTabs').responsiveTabs({
+    startCollapsed: 'accordion'
+});
