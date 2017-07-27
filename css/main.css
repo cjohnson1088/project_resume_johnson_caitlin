@@ -1,5 +1,21 @@
+header {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 4px;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 1%;
+}
+
 main {
     padding: 2em;
+}
+
+#intro p {
+    padding: 0 2em;
 }
 
 #intro {
@@ -9,6 +25,7 @@ main {
 img {
     width: 25%;
     border-radius: 5%;
+    border: #fd9699 solid 4px;
 }
 
 article {
@@ -19,9 +36,29 @@ article:last-child {
     border-bottom: 0;
 }
 
+a {
+    text-decoration: none;
+    color: #fd9699;
+    font-size: 1.25em;
+    border-right: #fd9699 solid 1px;
+    padding: 0 2%;
+}
+
+a:last-child {
+    border-right: 0;
+}
+
+.fix {
+    padding-left: 0;
+}
+
 .italic {
     font-style: italic;
     color: #fd9699;
+}
+
+.padding {
+    padding-bottom: 2%;
 }
 
 /* Skills Bars Start */
