@@ -10,6 +10,11 @@ h1 {
     padding-top: 1%;
 }
 
+h3 {
+    display: inline;
+    padding-right: 1%;
+}
+
 main {
     padding: 2em;
 }
@@ -34,6 +39,11 @@ article {
 
 article:last-child {
     border-bottom: 0;
+}
+
+.email {
+    padding: 0;
+    border-right: 0;
 }
 
 a {
