@@ -7,22 +7,20 @@ body {
 
 /* Tabs container */
 .r-tabs {
-	position: relative;
-
-	background-color: #00c5ad;
-
-	border-top: 1px solid #00c5ad;
-	border-right: 1px solid #00c5ad;
-	border-left: 1px solid #00c5ad;
-	border-bottom: 4px solid #00c5ad;
-	border-radius: 4px;
+    position: relative;
+    background-color: #ec7fb4;
+    border-top: 4px solid #ec7fb4;
+    border-right: 2px solid #ec7fb4;
+    border-left: 2px solid #ec7fb4;
+    border-bottom: 4px solid #ec7fb4;
+    border-radius: 4px;
 
 }
 
 /* Tab element */
 .r-tabs .r-tabs-nav .r-tabs-tab {
 	position: relative;
-	background-color: #00c5ad;
+	background-color: #ec7fb4;
 }
 
 /* Tab anchor */
@@ -44,7 +42,7 @@ body {
 
 /* Active state tab anchor */
 .r-tabs .r-tabs-nav .r-tabs-state-active .r-tabs-anchor {
-	color: #00c5ad;
+	color: #ec7fb4;
 	text-shadow: none;
 
 	background-color: white;
@@ -106,14 +104,14 @@ button {
 	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
 	vertical-align: middle;
 	font-weight: bold;
-	
+
 	border: 0;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 	background-color: #00c5ad;
 	box-shadow: 0px 3px 0px 0px #00ab94;
-	
+
 	cursor: pointer;
 }
 
@@ -136,4 +134,4 @@ button {
 	background-color: #fff;
 
 	cursor: pointer;
-} 
+}
