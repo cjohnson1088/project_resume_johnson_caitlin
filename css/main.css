@@ -35,7 +35,7 @@ img {
     font-weight: bold;
     font-size: 13px;
     color: #ffffff;
-    background: #ec7fb4;
+    background: #fd9699;
     border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;
     padding: 0 20px;
@@ -47,7 +47,7 @@ img {
     height: 35px;
     width: 0;
     margin: 0;
-    background: rgb(245, 210, 227);
+    background: rgb(249, 224, 224);
     border-radius: 3px;
     display: inline-block;
 }
