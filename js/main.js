@@ -2,6 +2,8 @@ $('#responsiveTabs').responsiveTabs({
     startCollapsed: 'accordion'
 });
 
+$.backstretch('img/009.jpg');
+
 $('.skillbar').skillBars({
 
   // number start
