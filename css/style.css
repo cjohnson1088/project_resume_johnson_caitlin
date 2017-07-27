@@ -64,7 +64,7 @@ body {
     display: block;
     padding: 10px;
 
-    background-color: #ec7fb4;
+    background-color: #fd9699;
     color: #ffffff;
     font-weight: bold;
     text-decoration: none;
@@ -78,7 +78,7 @@ body {
 /* Active accordion anchor */
 .r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor {
     background-color: #ffffff;
-    color: #ec7fb4;
+    color: #fd9699;
     text-shadow: none;
 }
 
