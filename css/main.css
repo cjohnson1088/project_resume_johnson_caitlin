@@ -11,6 +11,14 @@ img {
     border-radius: 5%;
 }
 
+article {
+    border-bottom: #fad7d8 solid 2px;
+}
+
+article:last-child {
+    border-bottom: 0;
+}
+
 .italic {
     font-style: italic;
 }
