@@ -8,11 +8,11 @@ body {
 /* Tabs container */
 .r-tabs {
     position: relative;
-    background-color: #ec7fb4;
-    border-top: 4px solid #ec7fb4;
-    border-right: 2px solid #ec7fb4;
-    border-left: 2px solid #ec7fb4;
-    border-bottom: 4px solid #ec7fb4;
+    background-color: #fd9699;
+    border-top: 4px solid #fd9699;
+    border-right: 2px solid #fd9699;
+    border-left: 2px solid #fd9699;
+    border-bottom: 4px solid #fd9699;
     border-radius: 4px;
 
 }
@@ -20,7 +20,7 @@ body {
 /* Tab element */
 .r-tabs .r-tabs-nav .r-tabs-tab {
 	position: relative;
-	background-color: #ec7fb4;
+	background-color: #fd9699;
 }
 
 /* Tab anchor */
@@ -42,7 +42,7 @@ body {
 
 /* Active state tab anchor */
 .r-tabs .r-tabs-nav .r-tabs-state-active .r-tabs-anchor {
-	color: #ec7fb4;
+	color:#fd9699;
 	text-shadow: none;
 
 	background-color: white;
