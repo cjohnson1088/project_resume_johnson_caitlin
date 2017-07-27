@@ -2,3 +2,12 @@ main {
     padding: 2em;
     background-color: #f5d2e3;
 }
+
+#intro {
+    text-align: center;
+}
+
+img {
+    width: 25%;
+    border-radius: 5%;
+}
