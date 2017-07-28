@@ -30,7 +30,7 @@ main {
 img {
     width: 25%;
     border-radius: 5%;
-    border: #fd9699 solid 4px;
+    border: #fd9699 solid 0.25em;
 }
 
 article {
@@ -117,4 +117,10 @@ a:last-child {
     line-height: 35px;
     color: #ffffff;
     color: rgba(0, 0, 0, 0.4);
+}
+
+@media (max-width: 768px) {
+    #my-pic {
+        display: none;
+    }
 }

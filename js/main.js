@@ -1,8 +1,12 @@
+$.backstretch('img/009.jpg');
+
 $('#responsiveTabs').responsiveTabs({
     startCollapsed: 'accordion'
 });
 
-$.backstretch('img/009.jpg');
+$('.r-tabs').first().on('click', function () {
+    $('#my-pic').fadeIn('slow').css('display', 'inline-block');
+});
 
 $('.skillbar').skillBars({
 
