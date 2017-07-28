@@ -91,7 +91,7 @@ a:last-child {
     font-weight: bold;
     font-size: 13px;
     color: #ffffff;
-    background: #fd9699;
+    background: rgba(253, 150, 153, 0.48);
     border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;
     padding: 0 20px;
