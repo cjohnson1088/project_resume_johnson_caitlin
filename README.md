@@ -1,8 +1,8 @@
 # Links
 * [Link to My GitHub Repo](https://github.com/cjohnson1088/project_resume_johnson_caitlin)
-* [Link to My Web Host]()
-* [Link to Validator]()
-* [Link to Outliner]()
+* [Link to My Web Host](http://caitlinaudreyjohnson.com/resume/)
+* [Link to Validator](https://validator.w3.org/nu/?doc=http%3A%2F%2Fcaitlinaudreyjohnson.com%2Fresume%2F)
+* [Link to Outliner](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fcaitlinaudreyjohnson.com%2Fresume%2F)
 
 # Resources
 * [Responsive Tabs Plugin](http://jellekralt.github.io/Responsive-Tabs/#tab-3)
@@ -30,3 +30,5 @@ I reviewed the list of deductions for this project and in the syllabus.
 
 # Comments
 Pretty pleased with this project! I like the idea of having an online resume.
+
+In order for my custom fadeIn on my picture to work you must refresh the page. Same goes for my animated skill bars.
