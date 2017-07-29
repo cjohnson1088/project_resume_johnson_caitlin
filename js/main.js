@@ -4,7 +4,7 @@ $('#responsiveTabs').responsiveTabs({
     startCollapsed: 'accordion'
 });
 
-$('.r-tabs').first().on('click', function () {
+$('.r-tabs').first().off().on('click', function () {
     $('#my-pic').fadeIn('slow').css('display', 'inline-block');
 });
 
